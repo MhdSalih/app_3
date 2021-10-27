@@ -13,4 +13,5 @@ features = st.container()
 modelTraining = st.container()
 
 with header:
-    st.title("Welcome")
+    st.title("Welcome to my new web app")
+    
